@@ -1,9 +1,16 @@
-### Olá! Muito prazer, me chamo Angelo, seja bem-vindo ao meu Github. 👋
+#👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
-- 🔭 Hoje sou Freelancer / Autônomo;
-- 🎯 Minha meta é ser um Desenvolvedor Full-Stack;
-- ⚡ Curiosidade: Sou Dj 🎧, amo música 🎶
-- 🎮 Gamer ❤
+- 🔭 Job: Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
+- 👀 Interesse: Atualmente pela área de Front-End;
+- 🚀 Carreira: Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior;
+- 🎓 Formação: Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário), Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);
+- 📖 Soft__Skills:
+               📂 Front-End: HTML, CSS, JavaScript,
+                ↪️ 📂 Front-End: HTML, CSS, JavaScript,
+- 🌱 Meta: Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia;
+- 🎯 Objetivo__Inicial: Ser um Desenvolvedor Front-End; 
+- 🎯 Objetivo__Principal: Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;
+- ⚡ Hobby: Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;
 
 <div>
   <a href="https://github.com/AngeloAntunes">
