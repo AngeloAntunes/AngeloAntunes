@@ -3,9 +3,9 @@
 Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado. Fique à vontade para __entrar em contato comigo__.
 
 
-👀 __Interesse:__
-- Atualmente pela área de Front-End;<br/><br/>
-🚀 __Carreira:__
+- 👀 __Interesse:__
+  - Atualmente pela área de Front-End;<br/><br/>
+- 🚀 __Carreira:__
   - Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [] Junior | [] Pleno | [] Sênior;<br/><br/>
 🎓 __Formação:__
 - Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),
