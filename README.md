@@ -1,8 +1,7 @@
 ### Olá! Muito prazer, me chamo Angelo, seja bem-vindo ao meu Github. 👋
 
-- 🔭 Hoje sou estagiário
-- 🎯 Minha meta é ser um Desenvolvedor Full-Stack
-- 🌱 Estudando atualmente JavaScript/React/Blockchain
+- 🔭 Hoje sou Freelancer / Autônomo;
+- 🎯 Minha meta é ser um Desenvolvedor Full-Stack;
 - ⚡ Curiosidade: Sou Dj 🎧, amo música 🎶
 - 🎮 Gamer ❤
 
