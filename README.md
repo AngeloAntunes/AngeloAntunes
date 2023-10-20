@@ -6,7 +6,7 @@ Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar 
 👀 __Interesse:__
 - Atualmente pela área de Front-End;<br/>
 <br/>
-🚀 __Carreira:__
+🚀 __Carreira:__ <br/>
 - Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [] Junior | [] Pleno | [] Sênior;<br/>
 <br/>
 🎓 __Formação:__
