@@ -2,6 +2,7 @@
 
 Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado. Fique à vontade para __entrar em contato comigo__.
 
+
 👀 __Interesse:__
 - Atualmente pela área de Front-End;<br/><br/>
 🚀 __Carreira:__
