@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
-🔭 __Job:__ <br/> - Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
+🔭 __Job:__ <br/>
+- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
 <br/>
 - 👀 __Interesse:__ Atualmente pela área de Front-End;
 - 🚀 __Carreira:__ Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior;
