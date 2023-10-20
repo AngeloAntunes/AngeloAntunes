@@ -1,7 +1,7 @@
 ###👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
-- 🔭 Job: Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
-- 👀 Interesse: Atualmente pela área de Front-End;
+- 🔭 *Job:* Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
+- 👀 *Interesse:* Atualmente pela área de Front-End;
 - 🚀 Carreira: Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior;
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário), Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);
 - 📖 Soft__Skills:
