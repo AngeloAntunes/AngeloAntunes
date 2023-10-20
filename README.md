@@ -4,9 +4,11 @@ Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar 
 
 
 👀 __Interesse:__
-  - Atualmente pela área de Front-End;<br/>
+- Atualmente pela área de Front-End;<br/>
+<br/>
 🚀 __Carreira:__
 - Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [] Junior | [] Pleno | [] Sênior;<br/>
+<br/>
 🎓 __Formação:__
 - Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),
 - Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/>
