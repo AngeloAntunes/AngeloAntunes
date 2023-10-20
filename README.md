@@ -1,23 +1,23 @@
 ## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
 🔭 __Job:__
-- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego; <br/><br/>
+- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;<br/><br/>
 👀 __Interesse:__
-- Atualmente pela área de Front-End; <br/><br/>
+- Atualmente pela área de Front-End;<br/><br/>
 🚀 __Carreira:__
-- Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior; <br/><br/>
+- Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior;<br/><br/>
 🎓 __Formação:__
 - Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),
-- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas); <br/><br/>
+- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/><br/>
 📖 __Soft__Skills:__
 - Front-End: HTML, CSS, JavaScript;
-- Front-End:* HTML, CSS, JavaScript; <br/><br/>
+- Front-End:* HTML, CSS, JavaScript;<br/><br/>
 🌱 __Meta:__
-- Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia; <br/><br/>
+- Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia;<br/><br/>
 🎯 __Objetivo__Inicial:__
-- Ser um Desenvolvedor Front-End; <br/><br/>
+- Ser um Desenvolvedor Front-End;<br/><br/>
 🎯 __Objetivo__Principal:__
-- Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes; <br/><br/>
+- Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;<br/><br/>
 ⚡ __Hobby:__
 - Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;
 
