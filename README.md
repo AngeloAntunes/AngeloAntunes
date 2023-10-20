@@ -3,14 +3,10 @@
 Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado. Fique à vontade para __entrar em contato comigo__.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
-
-👀 __Interesse:__ <br/>
-- Atualmente pela área de Front-End;<br/>
-🚀 __Carreira:__ <br/>
-- Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [] Junior | [] Pleno | [] Sênior;
-🎓 __Formação:__
-- Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),
-- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/>
+__Sobre:__
+👀 __Interesse:__ - Atualmente pela área de Front-End;<br/>
+🚀 __Carreira:__ - Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [] Junior | [] Pleno | [] Sênior;
+🎓 __Formação:__ - Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário), - Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/>
 📖 __Soft__Skills:__
 - Front-End: HTML, CSS, JavaScript;
 - Front-End:* HTML, CSS, JavaScript;<br/>
