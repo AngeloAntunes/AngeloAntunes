@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
+###👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
 - 🔭 Job: Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
 - 👀 Interesse: Atualmente pela área de Front-End;
