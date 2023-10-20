@@ -1,16 +1,25 @@
 ## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github. 
 
 🔭 __Job:__ <br/>
-- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;
-<br/>
-- 👀 __Interesse:__ Atualmente pela área de Front-End;
-- 🚀 __Carreira:__ Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior;
-- 🎓 __Formação:__ Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário), Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);
-- 📖 __Soft__Skills:__ *Front-End:* HTML, CSS, JavaScript, *Front-End:* HTML, CSS, JavaScript;
-- 🌱 __Meta:__ Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia;
-- 🎯 __Objetivo__Inicial:__ Ser um Desenvolvedor Front-End; 
-- 🎯 __Objetivo__Principal:__ Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;
-- ⚡ __Hobby:__ Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;
+- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego; <br/>
+👀 __Interesse:__
+- Atualmente pela área de Front-End; <br/>
+🚀 __Carreira:__
+- Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágiario | [] Junior | [] Pleno | [] Sênior; <br/>
+🎓 __Formação:__
+- Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),
+- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas); <br/>
+📖 __Soft__Skills:__
+- Front-End: HTML, CSS, JavaScript;
+- Front-End:* HTML, CSS, JavaScript; <br/>
+🌱 __Meta:__
+- Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia; <br/>
+🎯 __Objetivo__Inicial:__
+- Ser um Desenvolvedor Front-End; <br/>
+🎯 __Objetivo__Principal:__
+- Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes; <br/>
+⚡ __Hobby:__
+- Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;
 
 <div>
   <a href="https://github.com/AngeloAntunes">
