@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github.
 
-💼 __Job:__- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;<br/><br/>
+💼 __Job:__
+- Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;<br/><br/>
 👀 __Interesse:__
 - Atualmente pela área de Front-End;<br/><br/>
 🚀 __Carreira:__
