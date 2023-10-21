@@ -5,7 +5,7 @@ Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 :__Sobre__:<br/><br/>Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma trajetória de __2 anos de experiência__, focado em aprimorar a __experiência do usuário__ por meio de interfaces de __alta qualidade__. Com conhecimento em __Front-End__ e suas linguagens, além de ferramentas de __Designer__ para criar interfaces visualmente atraentes e funcionais. <br/><br/>
 👀 __Interesse:__  Atualmente pela área de Front-End;<br/><br/>
-🚀 __Carreira:__  Meus cargos conquistados na área de Tecnologia até o momento foram: - [x] Estágio | - [ ] Junior | - [ ] Pleno | - [ ] Sênior;<br/><br/>
+🚀 __Carreira:__  Meus cargos conquistados na área de Tecnologia até o momento foram: [:heavy_check_mark:] Estágio | [-] Junior | [-] Pleno | [-] Sênior;<br/><br/>
 🎓 __Formação:__  Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário), - Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/><br/>
 📖 __Soft__Skills:__  Front-End: HTML, CSS, JavaScript; - Front-End:* HTML, CSS, JavaScript;<br/><br/>
 🌱 __Meta:__  Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia;<br/><br/>
