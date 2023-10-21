@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github.
 
 Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado. Fique à vontade para __entrar em contato comigo__.<br/><hr>
-__SOBRE:__<br/>* Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma trajetória de __2 anos de experiência__, focado em aprimorar a __experiência do usuário__ por meio de interfaces de __alta qualidade__. Com conhecimento em __Front-End__ e suas linguagens, além de ferramentas de __Designer__ para criar interfaces visualmente atraentes e funcionais. <br/><br/>
+__SOBRE:__<br/>    Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma trajetória de __2 anos de experiência__, focado em aprimorar a __experiência do usuário__ por meio de interfaces de __alta qualidade__. Com conhecimento em __Front-End__ e suas linguagens, além de ferramentas de __Designer__ para criar interfaces visualmente atraentes e funcionais. <br/><br/>
 👀 __Interesse:__ <br/>Atualmente pela área de Front-End;<br/><br/>
 🚀 __Carreira:__ <br/>Meus cargos conquistados na área de Tecnologia até o momento foram:<br/>[:heavy_check_mark:] Estágio<br/>[:heavy_minus_sign:] Junior<br/>[:heavy_minus_sign:] Pleno<br/>[:heavy_minus_sign:] Sênior;<br/><br/>
 🎓 __Formação:__ <br/>Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário),<br/>Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/><br/>
