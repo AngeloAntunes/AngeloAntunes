@@ -12,7 +12,7 @@ Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma tra
 🌱 __Meta:__ <br/>Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e, me tornar um profissional cada vez mais apto e melhor, atualmente estudo de 6 à 12 horas por dia;<br/><br/>
 🎯 __Objetivo__Inicial:__ <br/>Ser um Desenvolvedor Front-End;<br/><br/>
 🎯 __Objetivo__Principal:__ <br/>Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;<br/><br/>
-⚡ __Hobby:__ <br/>Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;
+⚡ __Hobby:__ <br/>Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;<br/><hr>
 
 <div>
   <a href="https://github.com/AngeloAntunes">
