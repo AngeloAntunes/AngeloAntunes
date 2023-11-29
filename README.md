@@ -7,7 +7,7 @@ Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma tra
 👀 __Interesse:__ <br/>Atualmente pela área de Front-End;<br/><br/>
 🚀 __Carreira:__ <br/>Meus cargos conquistados na área de Tecnologia até o momento foram:<br/>[:heavy_check_mark:] Estágio;<br/>[:heavy_check_mark:] Junior;<br/>[:heavy_minus_sign:] Pleno;<br/>[:heavy_minus_sign:] Sênior;<br/><br/>
 🎓 __Formação:__ <br/>- Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário);<br/>- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/><br/>
-📖 __Soft__Skills:__ <br/> __Front-End:__ HTML, CSS, JavaScript, TypeScript;<br/> __Framework:__ Bootstrap, React, Vue;<br/> __Pré-processadores:__ SASS, LESS;<br/> __Automatizadores:__ Gulp, Grunt;<br/> __Back-End:__ Node, PHP;<br/> __Banco-de-Dados:__ MongoDB, PostgreSQL, MySQL;<br/> __API-Client:__ Postman, Insomnia;<br/><br/>
+📖 __Soft__Skills:__ <br/> __Front-End:__ HTML, CSS, JavaScript, JQuery, TypeScript;<br/> __Framework:__ Bootstrap, React, Vue;<br/> __Pré-processadores:__ SASS, LESS;<br/> __Automatizadores:__ Gulp, Grunt;<br/> __Back-End:__ Node, PHP;<br/> __Banco-de-Dados:__ MongoDB, PostgreSQL, MySQL;<br/> __API-Client:__ Postman, Insomnia;<br/><br/>
 🧠 __Hard__Skills:__ <br/>- Empatia;<br/>- Relacionamento interpessoal;<br/>- Comunicação;<br/>- Negociação;<br/>- Trabalho em equipe;<br/>- Tomada de decisão;<br/>- Liderança;<br/>- Proatividade;<br/>- Foco e gestão do tempo;<br/><br/>
 🌱 __Meta:__ <br/>Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e me tornar um profissional cada vez mais apto e melhor;<br/><br/>
 🎯 __Objetivo__Inicial:__ <br/>Ser um Desenvolvedor Front-End;<br/><br/>
