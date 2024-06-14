@@ -1,18 +1,120 @@
-## 👋 Olá, eu sou o Angelo, seja bem-vindo ao meu Github.
+## 👋 Olá, seja muito bem-vindo ao meu Github.
 
-Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado. Fique à vontade para __entrar em contato comigo__.<br/><hr>
+Abaixo você encontrará um resumo sobre mim, você também conseguirá acessar neste GitHub alguns __Projetos__ e ver quais __Tecnologias__ tenho utilizado.
+
+Fique à vontade para __entrar em contato comigo:__.<br/>
+
+__E-mail:__ angelomw@hotmail.com
+
+<hr>
+
 __Sobre:__<br/>
-Meu nome é Angelo e sou um apaixonado __Desenvolvedor de Software__ com uma trajetória de __2 anos de experiência__, focado em aprimorar a __experiência do usuário__ por meio de interfaces de __alta qualidade__. Com conhecimento em __Front-End__ e suas linguagens, além de ferramentas de __Designer__ para criar interfaces visualmente atraentes e funcionais.<br/><br/>
-💼 __Job:__ <br/>Hoje sou Freelancer / Autônomo e busco novas oportunidades de emprego;<br/><br/>
-👀 __Interesse:__ <br/>Atualmente pela área de Front-End;<br/><br/>
-🚀 __Carreira:__ <br/>Meus cargos conquistados na área de Tecnologia até o momento foram:<br/>[:heavy_check_mark:] Estágio;<br/>[:heavy_check_mark:] Junior;<br/>[:heavy_minus_sign:] Pleno;<br/>[:heavy_minus_sign:] Sênior;<br/><br/>
-🎓 __Formação:__ <br/>- Análise e Desenvolvimento de Sistemas (ENIAC - Centro Universitário);<br/>- Engenheiro Front-End (EBAC - Escola Britânica de Artes Criativas);<br/><br/>
-📖 __Soft__Skills:__ <br/> __Front-End:__ HTML, CSS, JavaScript, JQuery, TypeScript;<br/> __Framework:__ Bootstrap, React, Vue;<br/> __Pré-processadores:__ SASS, LESS;<br/> __Automatizadores:__ Gulp, Grunt;<br/> __Back-End:__ Node, PHP;<br/> __Banco-de-Dados:__ MongoDB, PostgreSQL, MySQL;<br/> __API-Client:__ Postman, Insomnia;<br/><br/>
-🧠 __Hard__Skills:__ <br/>- Empatia;<br/>- Relacionamento interpessoal;<br/>- Comunicação;<br/>- Negociação;<br/>- Trabalho em equipe;<br/>- Tomada de decisão;<br/>- Liderança;<br/>- Proatividade;<br/>- Foco e gestão do tempo;<br/><br/>
-🌱 __Meta:__ <br/>Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e me tornar um profissional cada vez mais apto e melhor;<br/><br/>
-🎯 __Objetivo__Inicial:__ <br/>Ser um Desenvolvedor Front-End;<br/><br/>
-🎯 __Objetivo__Principal:__ <br/>Ser um Desenvolvedor Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;<br/><br/>
-⚡ __Hobby:__ <br/>Gosto de ouvir música "afinal de contas, sou DJ rs", também gosto de jogar video-game, praticar atividade física e, atualmente estou tentando criar o hábito da leitura de livros;<br/><hr>
+
+Meu nome é Angelo e sou um __Desenvolvedor de Software__ com uma trajetória de __3 anos de experiência__, focado em aprimorar a __experiência do usuário__ por meio de interfaces de __alta qualidade__. Com conhecimento em __Front-End__ / __Back-End__ e suas linguagens, além de ferramentas de __Designer__ para criar interfaces visualmente atraentes e funcionais.<br/><br/>
+💼 __Jobs:__ <br/>
+- Desenvolvedor de Software na empresa - [Exbiz](https://www.linkedin.com/company/exbiz/). 
+- Desenvolvimento de Software como - __Freelancer__;<br/>
+##
+🚀 __Carreira:__ <br/>
+
+Meus cargos conquistados na área de Tecnologia até o momento foram:<br/>
+
+:heavy_check_mark: Estágio;<br/>:heavy_check_mark: Junior - __(atual)__;<br/>:heavy_minus_sign: Pleno;<br/>:heavy_minus_sign: Sênior;
+##
+🎓 __Formação:__
+- Análise e Desenvolvimento de Sistemas (Centro Universitário ENIAC);
+- Engenharia de Software (Faculdade Descomplica);
+##
+🧠 __Hard-Skills__
+
+Nesta seção você encontrará todas as minhas habilidades técnicas listadas em um formato de tabela para facilitar a sua visualização.
+> [!IMPORTANT]
+> O mínimo de conhecimento nas tecnologias abaixo pode variar de básico à avançado.
+
+| Front-End | Frameworks | Pré-Processadores | Automatizadores | Banco de Dados | API - Client |
+|   :---:   |   :---:    |       :---:       |      :---:      |      :---:     |    :---:     |
+| HTML      | Bootstrap  | SASS              | Gulp            | MySQL          | Postman      |
+| CSS       | JQuery     | LESS              | Grunt           | PostgreSQL     | Insomnia     |
+| JavaScript| React      |                   |                 | MongoDB        |              |
+| TypeScript| Vue        |                   |                 |                |              |
+##
+
+:bowtie: __Soft-Skills__
+
+Nesta seção você encontrará algumas das minhas habilidades emocionais e executivas, listadas no formato de JSON.
+
+```json
+  {
+  "habilidades": [
+    {
+      "id": 1,
+      "nome": "Empatia"
+    },
+    {
+      "id": 2,
+      "nome": "Relacionamento Interpessoal"
+    },
+    {
+      "id": 3,
+      "nome": "Comunicação"
+    },
+    {
+      "id": 4,
+      "nome": "Negociação"
+    },
+    {
+      "id": 5,
+      "nome": "Trabalho em Equipe"
+    },
+    {
+      "id": 6,
+      "nome": "Tomada de Decisão"
+    },
+    {
+      "id": 7,
+      "nome": "Liderança"
+    },
+    {
+      "id": 8,
+      "nome": "Proatividade"
+    },
+    {
+      "id": 9,
+      "nome": "Foco e Gestão do Tempo"
+    }
+  ]
+}
+```
+
+##
+🌱 __Metas:__
+
+Tenho focado bastante em meus estudos e me dedicado ao máximo para conquistar meus objetivos listados abaixo e me tornar um profissional cada vez mais apto e melhor;
+
+🎯 __Iniciais:__
+1. Estudar e me desenvolver ao máximo para conseguir progredir :heavy_check_mark:
+2. Conseguir minha primeira oportunidade e entrar na área **(Estágio)** :heavy_check_mark:
+3. Adquirir experiência e continuar evoluindo: **(1 ano e 5 meses de Estágio)** :heavy_check_mark:
+4. Conseguir uma promoção / efetivação e me tornar um: **(Desenvolvedor JR)** :heavy_check_mark:
+5. Continuar me desenvolvendo, estudando e melhorando: **(Atual)**
+6. ..... 🏃 ......
+   
+🎯 __Principal:__
+
+Ser um Desenvolvedor de Software Especialista em Full-Stack, agregando ao máximo a minha equipe, empresa e clientes;
+
+##
+
+⚡ __Hobby:__
+
+- Ouvir Música;
+- Sair com Amigos;
+- Jogar Video-Game;
+- Praticar Atividade Física;
+- Estudar Coisas Novas;
+- Ler Livros.
+
+##
 
 <div>
   <a href="https://github.com/AngeloAntunes">
